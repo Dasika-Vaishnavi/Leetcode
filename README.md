@@ -38,9 +38,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
