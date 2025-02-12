@@ -46,8 +46,17 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
