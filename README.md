@@ -9,12 +9,14 @@
 | [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0283-move-zeroes) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
