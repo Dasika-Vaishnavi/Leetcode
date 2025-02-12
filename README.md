@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
