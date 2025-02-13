@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
