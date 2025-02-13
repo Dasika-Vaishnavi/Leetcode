@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
