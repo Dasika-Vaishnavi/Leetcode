@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0258-add-digits) |
