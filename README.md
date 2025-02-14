@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
