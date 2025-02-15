@@ -51,6 +51,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0069-sqrtx) |
@@ -72,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
