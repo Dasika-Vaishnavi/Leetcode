@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0043-multiply-strings) |
@@ -89,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
