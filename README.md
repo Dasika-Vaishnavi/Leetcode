@@ -38,6 +38,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +57,7 @@
 | [0058-length-of-last-word](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Math
 |  |
 | ------- |
@@ -100,8 +102,13 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0039-combination-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
