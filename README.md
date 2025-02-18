@@ -58,6 +58,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0020-valid-parentheses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
 | ------- |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
