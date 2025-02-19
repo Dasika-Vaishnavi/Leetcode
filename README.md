@@ -59,6 +59,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Math
 |  |
@@ -106,6 +107,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
