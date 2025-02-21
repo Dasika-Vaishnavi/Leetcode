@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -125,4 +126,24 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dasika-Vaishnavi/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
